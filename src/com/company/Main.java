@@ -35,7 +35,7 @@ public class Main
                 break;
 
             default:
-                System.out.println("Invalid Entry");
+                System.out.println("Invalid Entry = No Clearance");
                 System.exit(1);
         }
 
